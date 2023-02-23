@@ -13,7 +13,7 @@ namespace YoutubeEgitim3
 
             //Console.WriteLine(sayi1);
 
-            //int[] sayilar1 = new[] { 1, 2, 3 };                       // reference type
+            //int[] sayilar1 = new[] { 1, 2, 3 };                       // reference 
             //int[] sayilar2 = new[] { 10, 20, 30 };
             //sayilar1= sayilar2;
             //sayilar2[0]=1000;
